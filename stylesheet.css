@@ -1,0 +1,26 @@
+img
+{
+	width:50%;
+	height:50%;
+}
+body
+{
+	font-family: arial;
+	background: url(back.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size:cover;
+background-size: cover;
+color:lightblue;
+}
+
+}
+p
+{
+	font-size: 16pt;
+	text-align: left;
+	
+}
+h1
+{
+	color:red;
+}
